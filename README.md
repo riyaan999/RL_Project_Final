@@ -85,8 +85,9 @@ PPO showed potential in learning classification behavior from shaped rewards, bu
 
 ---
 
-## 👤 Author
+## 👤 Authors
 
 **Riyaan Chatterjee**  
+**Akshat Jain**
 
 ---
